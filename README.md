@@ -1,2 +1,2 @@
-# exercism
-My solution for all the exercism problems
+# Exercism repo
+As long as I will be solving the [exercism](https://exercism.org/tracks/rust) problems of the Rust track, I will keep posting them here. Main objective here is, at least, one per day but we'll see ...
