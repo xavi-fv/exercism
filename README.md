@@ -7,3 +7,4 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Lucian's Luscious Lasagna](https://exercism.org/tracks/rust/exercises/lucians-luscious-lasagna)
     - [Assembly line](https://exercism.org/tracks/rust/exercises/assembly-line)
     - [Semi Structured Logs](https://exercism.org/tracks/rust/exercises/semi-structured-logs)
+    - [Resitor Color](https://exercism.org/tracks/rust/exercises/resistor-color)
