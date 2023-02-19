@@ -13,3 +13,4 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Low-Power Embedded Game](https://exercism.org/tracks/rust/exercises/low-power-embedded-game)
     - [Role-Playing Game](https://exercism.org/tracks/rust/exercises/role-playing-game)
     - [A Short Fibonacci Sequence](https://exercism.org/tracks/rust/exercises/short-fibonacci/solutions)    
+    - [RPN Calculator](https://exercism.org/tracks/rust/exercises/rpn-calculator)
