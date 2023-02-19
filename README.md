@@ -8,3 +8,5 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Assembly line](https://exercism.org/tracks/rust/exercises/assembly-line)
     - [Semi Structured Logs](https://exercism.org/tracks/rust/exercises/semi-structured-logs)
     - [Resitor Color](https://exercism.org/tracks/rust/exercises/resistor-color)
+- 19th Feb, 2023:
+    - [Health Statistics](https://exercism.org/tracks/rust/exercises/health-statistics)

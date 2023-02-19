@@ -11,3 +11,7 @@ Cargo.lock
 
 # Jetbrains stuff
 .idea
+
+# Exercism internals
+/.exercism/
+.gitignore
