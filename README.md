@@ -12,4 +12,4 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Health Statistics](https://exercism.org/tracks/rust/exercises/health-statistics)
     - [Low-Power Embedded Game](https://exercism.org/tracks/rust/exercises/low-power-embedded-game)
     - [Role-Playing Game](https://exercism.org/tracks/rust/exercises/role-playing-game)
-    
+    - [A Short Fibonacci Sequence](https://exercism.org/tracks/rust/exercises/short-fibonacci/solutions)    
