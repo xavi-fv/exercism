@@ -10,3 +10,6 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Resitor Color](https://exercism.org/tracks/rust/exercises/resistor-color)
 - 19th Feb, 2023:
     - [Health Statistics](https://exercism.org/tracks/rust/exercises/health-statistics)
+    - [Low-Power Embedded Game](https://exercism.org/tracks/rust/exercises/low-power-embedded-game)
+    - [Role-Playing Game](https://exercism.org/tracks/rust/exercises/role-playing-game)
+    
