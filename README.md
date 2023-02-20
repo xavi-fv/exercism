@@ -1,7 +1,7 @@
 # Exercism repo
 As long as I will be solving the [exercism](https://exercism.org/tracks/rust) problems of the Rust track, I will keep posting them here. Main objective here is, at least, one per day but we'll see ...
 
-## Progress:
+## Completed:
 - 18th Feb, 2023:
     - [Hello World](https://exercism.org/tracks/rust/exercises/hello-world)
     - [Lucian's Luscious Lasagna](https://exercism.org/tracks/rust/exercises/lucians-luscious-lasagna)
@@ -14,3 +14,13 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Role-Playing Game](https://exercism.org/tracks/rust/exercises/role-playing-game)
     - [A Short Fibonacci Sequence](https://exercism.org/tracks/rust/exercises/short-fibonacci/solutions)    
     - [RPN Calculator](https://exercism.org/tracks/rust/exercises/rpn-calculator)
+- 20th Feb, 2023:
+    - [Reverse String](https://exercism.org/tracks/rust/exercises/reverse-string)
+    - [Gigasecond](https://exercism.org/tracks/rust/exercises/gigasecond)
+
+
+## In progress ...    
+- [Beer Song](https://exercism.org/tracks/rust/exercises/beer-song)
+
+    
+
