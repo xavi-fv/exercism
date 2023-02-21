@@ -17,10 +17,9 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
 - 20th Feb, 2023:
     - [Reverse String](https://exercism.org/tracks/rust/exercises/reverse-string)
     - [Gigasecond](https://exercism.org/tracks/rust/exercises/gigasecond)
+- 21th Feb, 2023:
+    - [Beer Song](https://exercism.org/tracks/rust/exercises/beer-song)
 
 
 ## In progress ...    
-- [Beer Song](https://exercism.org/tracks/rust/exercises/beer-song)
-
-    
 
