@@ -20,7 +20,9 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Gigasecond](https://exercism.org/tracks/rust/exercises/gigasecond)
 - 21th Feb, 2023:
     - [Beer Song](https://exercism.org/tracks/rust/exercises/beer-song)
-
+    - [Armstrong Numbers](https://exercism.org/tracks/rust/exercises/armstrong-numbers)
+    - [Difference of Squares](https://exercism.org/tracks/rust/exercises/difference-of-squares)
+    - [Grains](https://exercism.org/tracks/rust/exercises/grains)
 
 ## In progress ...    
 
