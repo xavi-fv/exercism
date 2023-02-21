@@ -23,6 +23,8 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Armstrong Numbers](https://exercism.org/tracks/rust/exercises/armstrong-numbers)
     - [Difference of Squares](https://exercism.org/tracks/rust/exercises/difference-of-squares)
     - [Grains](https://exercism.org/tracks/rust/exercises/grains)
+    - [Leap](https://exercism.org/tracks/rust/exercises/leap)
+    - [Nth Prime](https://exercism.org/tracks/rust/exercises/nth-prime)
 
 ## In progress ...    
 
