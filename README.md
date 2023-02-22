@@ -24,7 +24,11 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Difference of Squares](https://exercism.org/tracks/rust/exercises/difference-of-squares)
     - [Grains](https://exercism.org/tracks/rust/exercises/grains)
     - [Leap](https://exercism.org/tracks/rust/exercises/leap)
+- 22th Feb, 2023:    
     - [Nth Prime](https://exercism.org/tracks/rust/exercises/nth-prime)
+    - [Proverb](https://exercism.org/tracks/rust/exercises/proverb)
+    - [Rain Drops](https://exercism.org/tracks/rust/exercises/raindrops)
+    - [Sum of Multiples](https://exercism.org/tracks/rust/exercises/sum-of-multiples)
 
 ## In progress ...    
 
