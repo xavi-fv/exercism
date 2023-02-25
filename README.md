@@ -29,6 +29,14 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Proverb](https://exercism.org/tracks/rust/exercises/proverb)
     - [Rain Drops](https://exercism.org/tracks/rust/exercises/raindrops)
     - [Sum of Multiples](https://exercism.org/tracks/rust/exercises/sum-of-multiples)
+- 23th Feb, 2023
+    - [Bob](https://exercism.org/tracks/rust/exercises/bob)
+    - [High Scores](https://exercism.org/tracks/rust/exercises/high-scores)
+    - [Matching Brackets](https://exercism.org/tracks/rust/exercises/matching-brackets/solutions/michaelmez39)
+    - [Collatz Conjecture](https://exercism.org/tracks/rust/exercises/collatz-conjecture)
+- 24th Feb, 2023
+    - [Diffie-Hellman](https://exercism.org/tracks/rust/exercises/diffie-hellman)
+
 
 ## In progress ...    
-
+    - [Series](https://exercism.org/tracks/rust/exercises/series)
