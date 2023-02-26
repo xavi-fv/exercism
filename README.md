@@ -36,6 +36,8 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Collatz Conjecture](https://exercism.org/tracks/rust/exercises/collatz-conjecture)
 - 24th Feb, 2023
     - [Diffie-Hellman](https://exercism.org/tracks/rust/exercises/diffie-hellman)
+- 25th Feb, 2023
+    - [Series](https://exercism.org/tracks/rust/exercises/series)
 
 
 ## In progress ...    
