@@ -38,7 +38,7 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Diffie-Hellman](https://exercism.org/tracks/rust/exercises/diffie-hellman)
 - 25th Feb, 2023
     - [Series](https://exercism.org/tracks/rust/exercises/series)
-
+- 26th Feb, 2023
+    - [Clock](https://exercism.org/tracks/rust/exercises/clock)
 
 ## In progress ...    
-    - [Series](https://exercism.org/tracks/rust/exercises/series)
