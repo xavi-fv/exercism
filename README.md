@@ -40,5 +40,11 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Series](https://exercism.org/tracks/rust/exercises/series)
 - 26th Feb, 2023
     - [Clock](https://exercism.org/tracks/rust/exercises/clock)
+- 27th Feb, 2023
+    - 😱
+- 28th Feb, 2023
+    - [Anagram](https://exercism.org/tracks/rust/exercises/anagram)
+
 
 ## In progress ...    
+    - [Space Age](https://exercism.org/tracks/rust/exercises/space-age)
