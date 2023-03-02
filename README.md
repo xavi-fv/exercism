@@ -46,7 +46,9 @@ As long as I will be solving the [exercism](https://exercism.org/tracks/rust) pr
     - [Anagram](https://exercism.org/tracks/rust/exercises/anagram)
 - 1st Mar, 2023
     - [Space Age](https://exercism.org/tracks/rust/exercises/space-age)
+- 2nd Mar, 2024
+    - [Sublist](https://exercism.org/tracks/rust/exercises/sublist)
+
 
 ## In progress ...    
 
-- [Sublist](https://exercism.org/tracks/rust/exercises/sublist)
